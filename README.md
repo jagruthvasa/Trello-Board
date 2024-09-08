@@ -49,11 +49,6 @@ A task management application built with React, designed to create, view, search
 ### 👤 Profile Screen
 - **User Details**: Displays user information.
 - **🖼️ Profile Image**: Shows the user's profile image.
-  
-
-## 🌐 Hosted URL
-
-You can access the project [here](https://effulgent-centaur-4239d2.netlify.app/login).
 
 ## 🔒 Security Measures Taken
 
@@ -64,3 +59,13 @@ You can access the project [here](https://effulgent-centaur-4239d2.netlify.app/l
 - ✅ **HTTPS**: Enforced secure connections using HTTPS in production environments.
 - ✅ **Google OAuth Integration**: Secure third-party authentication with Google OAuth to enhance user security.
 - ✅ **SQL Injection Protection**: Proper use of parameterized queries to prevent SQL Injection attacks.
+
+
+## 🌐 Hosted URL
+
+You can access the project [here](https://effulgent-centaur-4239d2.netlify.app/login).
+
+
+> **Note**  
+> Please email me at [saijagruthvasa@gmail.com](mailto:saijagruthvasa@gmail.com) if you encounter any server downtime during testing. I will promptly restart the server (hosted on render.com).
+
