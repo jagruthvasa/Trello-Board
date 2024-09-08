@@ -55,3 +55,12 @@ A task management application built with React, designed to create, view, search
 
 You can access the project [here](https://effulgent-centaur-4239d2.netlify.app/login).
 
+## 🔒 Security Measures Taken
+
+- ✅ **XSS (Cross-Site Scripting) Prevention**: Proper input validation and sanitization implemented to prevent malicious scripts from being injected.
+- ✅ **Cross-Site Request Forgery (CSRF)**: CSRF protection is handled through CORS settings, allowing only the specific client URL with credentials.
+- ✅ **Authentication**: Secure authentication using JWT (JSON Web Tokens) for session management.
+- ✅ **Password Encryption**: Passwords are securely hashed using bcrypt for protection against brute-force attacks.
+- ✅ **HTTPS**: Enforced secure connections using HTTPS in production environments.
+- ✅ **Google OAuth Integration**: Secure third-party authentication with Google OAuth to enhance user security.
+- ✅ **SQL Injection Protection**: Proper use of parameterized queries to prevent SQL Injection attacks.
