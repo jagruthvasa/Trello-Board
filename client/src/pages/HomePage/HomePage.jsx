@@ -40,7 +40,7 @@ const HomePage = () => {
 
 	useEffect(() => {
 		fetchTaskData();
-	}, []);
+	}, [search]);
 
 	const onAddTask = () => {
 		setIsModalVisible(true);
