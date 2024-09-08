@@ -26,27 +26,27 @@ A task management application built with React, designed to create, view, search
 - [![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
 - [![Render](https://img.shields.io/badge/Render-4D8EFA?style=flat&logo=render&logoColor=white)](https://render.com/)
 
-## Screens
+## 🎬 Screens
 
-### Login Screen
+### 🔐 Login Screen
 - **Normal Login**: Allows users to log in using a username, email, and password.
 - **Google Login**: Provides an option to log in using Google Gmail.
 
-### Signup Screen
+### 📝 Signup Screen
 - **Email and Password Signup**: Allows users to sign up using an email address and password.
 - **Google Signup**: Provides an option to sign up using Google Gmail.
 
-### Home Screen
+### 🏠 Home Screen
 - **Task Management**:
-  - **Create Tasks**: Option to create new tasks.
-  - **Update Tasks**: Ability to update existing tasks.
-  - **Delete Tasks**: Option to delete tasks.
-  - **Drag and Drop**: Tasks can be dragged and dropped between three different statuses:
-    - **To-Do**
-    - **In-Progress**
-    - **Completed**
+  - **🆕 Create Tasks**: Option to create new tasks.
+  - **✏️ Update Tasks**: Ability to update existing tasks.
+  - **🗑️ Delete Tasks**: Option to delete tasks.
+  - **↔️ Drag and Drop**: Tasks can be dragged and dropped between three different statuses:
+    - **📋 To-Do**
+    - **⚙️ In-Progress**
+    - **✅ Completed**
 
-### Profile Screen
+### 👤 Profile Screen
 - **User Details**: Displays user information.
-- **Profile Image**: Shows the user's profile image.
+- **🖼️ Profile Image**: Shows the user's profile image.
 
