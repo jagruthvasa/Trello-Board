@@ -49,4 +49,9 @@ A task management application built with React, designed to create, view, search
 ### 👤 Profile Screen
 - **User Details**: Displays user information.
 - **🖼️ Profile Image**: Shows the user's profile image.
+  
+
+## 🌐 Hosted URL
+
+You can access the project [here](https://effulgent-centaur-4239d2.netlify.app/login).
 
