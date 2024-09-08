@@ -1,6 +1,8 @@
 # 📝 Task Management App
 
 A task management application built with React, designed to create, view, search, and manage tasks. The app provides seamless task creation with a modern UI and search functionality to filter tasks 
+![image](https://github.com/user-attachments/assets/8a52d6fe-d8c1-490f-b1a7-c3246b46a329)
+
 
 ## 🚀 Features
 
